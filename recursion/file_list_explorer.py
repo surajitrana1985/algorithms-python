@@ -1,6 +1,6 @@
 import os
 
-FILE_PATH = "../files/"
+FILE_PATH = "../assets/"
 
 
 def main():

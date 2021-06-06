@@ -1,0 +1,22 @@
+[
+    {
+        "product": "Coffee",
+        "sales": "1.0MTons"
+    },
+    {
+        "product": "Tea",
+        "sales": "1.9MTons"
+    },
+    {
+        "product": "Rice",
+        "sales": "9.8BTons"
+    },
+    {
+        "product": "Wheat",
+        "sales": "11.2BTons"
+    },
+    {
+        "product": "Bajra",
+        "sales": "2.7BTons"
+    }
+]
